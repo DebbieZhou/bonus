@@ -1,0 +1,20 @@
+/* @pjs preload="
+img/end1.jpg,
+img/start1.jpg,
+img/aa.png,
+img/ab.png,
+img/ac.png,
+img/ad.png,
+img/ba.png,
+img/bb.png,
+img/bc.png,
+img/bd.png,
+img/ca.png,
+img/cb.png,
+img/cc.png,
+img/cd.png,
+img/dr.png,
+img/drblack.png,
+img/heart.png,
+img/start2.png
+"; */
